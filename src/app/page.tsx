@@ -56,7 +56,7 @@ export default function Home() {
           ]}
           mediaItems={[
             {
-              imageSrc: "https://pixabay.com/get/g992287e2e7cf6d4badaa703e93e88ac63dad5b03754627579ea9e23bcc2194acf231d6072480ce38a15f01d4e88b8140b23bc2e417b6c8972ba540f561eac17e_1280.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32m5rRdd38TAyU0DZCqvrl288SF/uploaded-1761910848225-y4j20o2c.jpg",
               imageAlt: "Luxury hotel suite"
             },
             {
