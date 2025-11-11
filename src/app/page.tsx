@@ -46,7 +46,7 @@ export default function Home() {
       
       <div id="hero" data-section="hero">
         <HeroBillboardCorners
-          title="Experience Luxury Beyond Compare"
+          title="Experience Luxury Beyond"
           description="Discover unparalleled elegance and world-class service at Grand Luxe Hotel, where every detail is crafted for your perfect stay"
           tag="Welcome"
           tagIcon={Star}
